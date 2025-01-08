@@ -8,7 +8,7 @@
 
 - Home Page: Displays a list of blog posts, each with a title, subtitle, author, and date.
 - Individual Post Pages: View detailed content for each post.
-- Contact Page: A form to contact the blog owner.
+- Contact Page: A form to contact the blog owner. Functional contact form with email delivery for user messages.
 - About Page: Provides information about the blog owner and their work.
 - Dynamic Data Fetching: Blog data is fetched from an external API using requests.
 
