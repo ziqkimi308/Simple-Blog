@@ -60,5 +60,8 @@ project/
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/a186249c-600b-403f-89c1-4bd8f0d0cbdc" />
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/0507b367-96d8-479e-9991-3e356c06da69" />
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/26bd1068-c289-44fc-a2d6-5a1a737555e9" />
+<img width="882" alt="Screenshot 2025-01-08 170902" src="https://github.com/user-attachments/assets/500614b2-a3fc-41c6-8541-5edd9beb2a3b" />
+<img width="882" alt="Screenshot 2025-01-08 171227" src="https://github.com/user-attachments/assets/e1b8bdf5-99c0-4440-96a7-0b6d3e5604ac" />
+<img width="882" alt="Screenshot 2025-01-08 171438" src="https://github.com/user-attachments/assets/3c2f390a-030e-4bb4-a6af-2fc4b41e796d" />
 
 
